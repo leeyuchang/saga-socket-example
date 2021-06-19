@@ -1,5 +1,5 @@
 
-# Socket.IO and Redux-Saga example
+# Socket.IO and Redux-Saga example ( https://github.com/slava-lu/saga-socket-example )
 
 Read more about this example in my article on [medium](https://medium.com/@viacheslavlushchinskiy/real-time-data-with-redux-saga-event-channels-and-socket-io-ad6e64dbefd9)
 
